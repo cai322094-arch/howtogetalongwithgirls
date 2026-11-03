@@ -203,4 +203,4 @@
 
 ---
 
-← [07 · 自检](07-checklist.md) · [回到目录](../README.md)
+← [07 · 自检](07-checklist.md) · 下一章 → [09 · 军师协议](09-ai-strategist.md) · [回到目录](../README.md)
