@@ -82,4 +82,4 @@
 
 ---
 
-上一章 → [06 · 谣言](06-myths.md) ｜ 回 [目录](../README.md)
+上一章 → [06 · 谣言](06-myths.md) ｜ 下一章 → [08 · 排毒](08-short-video-detox.md)
